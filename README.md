@@ -1,29 +1,7 @@
-Olá, me chamo Douglas de Campos Chagas, tenho 24 anos, e sou desenvolvedor android a 2 anos
+Olá, meu nome é Douglas e sou desenvolvedor Android há dois anos. Tenho 25 anos e sou apaixonado por tecnologia desde criança. Comecei a estudar programação na faculdade e me especializei em desenvolvimento de aplicativos para dispositivos móveis.
 
-Ssegue abaixo uma lista dos meus conhecimentos:
-Java
-Kotlin
-Retrofit
-Junit
-Jetpack
-Rest
-Api
-Base64
-Firebase
-Material Design
-Github
-SQLite
-NoSQL
-GDX
-Programação Orientada a Objetos
-MVVM
-Scrum
-Metodologias Ágeis
+Ao longo desses dois anos, adquiri muita experiência em desenvolvimento Android, tendo trabalhado em diversos projetos e aplicativos. Possuo conhecimento avançado em Kotlin e Java, duas das principais linguagens de programação para desenvolvimento de aplicativos Android.
 
-Outros conhecimentos:
-SolidWorks
-Sistemas ERP
-Corel Draw
-Photoshop
-Ilustrator
-blender
+Minha paixão por desenvolvimento de aplicativos me leva constantemente a buscar novos desafios e oportunidades para aprimorar minhas habilidades. Estou sempre em busca de novos conhecimentos e tendências em tecnologia, a fim de entregar os melhores resultados aos meus clientes e usuários.
+
+Se você está procurando um desenvolvedor Android com experiência e conhecimento em Kotlin e Java, fique à vontade para entrar em contato comigo. Estou pronto para contribuir com seu projeto e oferecer as melhores soluções em desenvolvimento de aplicativos Android.
