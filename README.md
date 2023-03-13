@@ -1,7 +1,8 @@
-Olá, me chamo Douglas de Campos Chagas, tenho 24 anos, atualmente sou projetista 3D de estofados e estou procurando uma oportunidade para entrar no mercado de tecnologia.
+Olá, me chamo Douglas de Campos Chagas, tenho 24 anos, e sou desenvolvedor android a 2 anos
+
 Ssegue abaixo uma lista dos meus conhecimentos:
-Java (um ano de experiencia)
-Kotlin (um ano de experiencia)
+Java
+Kotlin
 Retrofit
 Junit
 Jetpack
